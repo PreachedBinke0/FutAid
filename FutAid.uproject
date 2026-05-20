@@ -47,6 +47,18 @@
 		{
 			"Name": "AnimToTexture",
 			"Enabled": true
+		},
+		{
+			"Name": "SERIALCOM",
+			"Enabled": true
+		},
+		{
+			"Name": "VaRest",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintScreenshotTool",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
