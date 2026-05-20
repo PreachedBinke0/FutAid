@@ -55,6 +55,10 @@
 		{
 			"Name": "VaRest",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintScreenshotTool",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
